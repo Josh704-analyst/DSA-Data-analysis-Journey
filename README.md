@@ -1,4 +1,4 @@
-# DSA-Data-analysis-Journey
+.# DSA-Data-analysis-Journey
 
 As a data enthusiast, DSA has added brighter colors to my data analysis journey. I look forward to providing efficient and sustainable solution to your organization challenge through data driven decisions.
 
@@ -15,3 +15,8 @@ come on
    - for data collection
      1. hello world
      2. Adegbe Ojo
+        
+..... sql
+select a,b,c
+
+.....

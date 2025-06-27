@@ -7,3 +7,10 @@ helo guys
 come on
 
 ### welcome home
+- excel [download here](https:excelfile)
+- sql
+- microsoft
+   - for data cleaning
+   - for data collection
+     1. hello world
+     2. Adegbe Ojo

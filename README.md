@@ -9,6 +9,7 @@ come on
 ### welcome home
 - excel [download here](https:excelfile)
 - sql
+- power bi [download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - microsoft
    - for data cleaning
    - for data collection
